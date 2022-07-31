@@ -1,0 +1,6 @@
+Apcicar comandos nativos da ferramentas git
+git init
+git branch
+git add
+git checkout
+git config
