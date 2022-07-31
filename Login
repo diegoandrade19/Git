@@ -1,0 +1,2 @@
+Códigos função login em javascript para verificar usuário e senha digitado na página Web Html. Sistema de login desenvolvido em javascript utilizando como base de dados planilha. 
+Ao clicar em botão de comando, se usuário e senha estiver correto, usuário é direcionado para pagina inicial.
